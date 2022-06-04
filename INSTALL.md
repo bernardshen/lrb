@@ -1,7 +1,7 @@
 * Recommend OS: Ubuntu 18
 * Install webcachesim library
 ```bash
-git clone --recurse-submodules https://github.com/sunnyszy/lrb webcachesim
+git clone --recurse-submodules https://github.com/bernardshen/lrb webcachesim
 cd webcachesim
 ./scripts/install.sh
 # test
